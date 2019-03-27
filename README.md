@@ -1,2 +1,2 @@
 # Drake Song Lyric Generator
-> Song Lyric Generator using LSTM
+> Song Lyric Generator using Recurrent Neural Network
